@@ -1,0 +1,6 @@
+{
+  "name": "Directaurante Client App",
+  "description": "App delivery moderna de Directaurante: pedidos, restaurantes, categorías, carrito y checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
